@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="config_screenRecorderOutputDimensions">720x1280</string>
+    <string name="app_name">Запись с экрана</string>
+    <string name="notification_recording_title">Идет запись с экрана...</string>
+    <string name="notification_recording_finished_title">Запись сохранена</string>
+    <string name="notification_recording_finished_text">Коснитесь для просмотра %s</string>
+    <string name="notification_recording_error_title">Ошибка записи</string>
+    <string name="notification_recording_error_text">%s</string>
+    <string name="notification_video_processing_title">Обработка записанного видео</string>
+    <string name="notification_action_stop_recording">Прекращение записи</string>
+    <string name="notification_action_show_touch">Показать касания</string>
+    <string name="error_unable_to_create_directory">Невозможно создать директорию для записи.</string>
+    <string name="error_external_storage_unavailable">Нет доступных внешних накопителей.</string>
+    <string name="error_unable_to_start">Невозможно начать запись.</string>
+</resources>

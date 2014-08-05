@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_label">Сервисы MoKee</string>
+    <string name="power_saver_notification_title">Энергосбережение работает</string>
+    <string name="power_saver_notification_ticker">Энергосбережение работает</string>
+    <string name="power_saver_notification_text">Запущено для продления автономной работы смартфона!</string>
+    <string name="quiet_hours_notification_title">Сон</string>
+    <string name="quiet_hours_notification_ticker">Сон</string>
+    <string name="quiet_hours_notification_text">Активный режим</string>
+    <string name="quiet_hours_notification_wait">"Я не сплю :)"</string>
+</resources>
