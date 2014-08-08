@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="application_name">Настройк MoKee</string>
+    <string name="product_name">Mokee OpenSource</string>
     <string name="next">Далее</string>
     <string name="continue_label">Продолжить</string>
     <string name="prev">Назад</string>
@@ -23,6 +25,11 @@
     <string name="setup_datetime">Дата и время</string>
     <string name="setup_current_date">Текущая дата</string>
     <string name="setup_current_time">Текущее время</string>
+	<string name="setup_inputmethod">Выберите способ ввода</string>
+    <string name="setup_inputmethod_summary">Выберите предпочитаемы метод ввода</string>
+    <string name="setup_inputmethod_none">Нет установленных методов ввода!</string>
+    <string name="setup_inputmethod_chinese">(только китайский)</string>
+    <string name="setup_inputmethod_multilingual">(мультиязычный без китайского)</string>
     <string name="setup_msg_no_network">ВНИМАНИЕ: настройка учётных записей будет невозможна</string>
     <string name="setup_warning_skip_wifi">"ВНИМАНИЕ: возможны нежелательные расходы при использовании мобильного интернета.
 
@@ -70,4 +77,5 @@
     <string name="auth_client_needs_update_title">Для работы приложения требуется обновить сервисы Google Play</string>
     <string name="auth_client_play_services_err_notification_msg">Ошибка сервисов Google Play</string>
     <string name="auth_client_requested_by_msg">Запрос от приложения \"%1$s\"</string>
+	<string name="location_client_powered_by_google">Работает с помощью Google</string>
 </resources>
